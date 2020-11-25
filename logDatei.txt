@@ -1,0 +1,24 @@
+- - - - - - - - - - - - - - - -
+Tue Jun 30 13:25:56 CEST 2020
+Konto reicht nicht aus
+- - - - - - - - - - - - - - - -
+Tue Jun 30 13:26:31 CEST 2020
+Konto reicht nicht aus
+- - - - - - - - - - - - - - - -
+Tue Jun 30 13:27:10 CEST 2020
+Konto reicht nicht aus
+- - - - - - - - - - - - - - - -
+Tue Jun 30 13:32:14 CEST 2020
+Konto reicht nicht aus
+- - - - - - - - - - - - - - - -
+Tue Jun 30 13:32:47 CEST 2020
+Negative Zahl als Bankleitzahl ist nicht zulaessig
+- - - - - - - - - - - - - - - -
+Tue Jun 30 13:33:35 CEST 2020
+[Ljava.lang.StackTraceElement;@4d7e1886Negative Zahl als Bankleitzahl ist nicht zulaessig
+- - - - - - - - - - - - - - - -
+Tue Jun 30 13:33:56 CEST 2020
+Negative Zahl als Bankleitzahl ist nicht zulaessig
+- - - - - - - - - - - - - - - -
+Tue Jun 30 13:50:11 CEST 2020
+java.lang.IllegalArgumentException: Negative Zahl als Bankleitzahl ist nicht zulaessig

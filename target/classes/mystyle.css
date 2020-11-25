@@ -1,0 +1,39 @@
+#willkommen {
+	-fx-font: 12pt "Poppins";
+	-fx-text-fill: #ff0000;
+}
+
+#ueberschrift {
+	-fx-font: bold 16pt "Poppins";
+}
+
+.content-section {
+	-fx-min-width: 0px;
+    -fx-pref-width: 600px;
+    -fx-max-width: 1000px;
+    -fx-pref-height: 300px;
+    -fx-min-height: 0px;
+    -fx-max-height: 1000px;
+    -fx-alignment: center;
+    -fx-padding: 20 20 20 20;
+    -fx-font: 12pt "Poppins";
+}
+
+#aktionen {
+	-fx-alignment: center top;
+	-fx-pref-width: 100px;
+	-fx-pref-height: 30px;
+	-fx-spacing: 10px;
+}
+
+#adresse {
+	-fx-pref-column-count: 25px;
+	-fx-pref-height: 200px;
+	-fx-pref-width: 200px;
+	-fx-prompt-text:"Hier Adresse eingeben";
+}
+
+.button {
+	-fx-background-color: darkslateblue;
+	-fx-text-fill: white;
+}
